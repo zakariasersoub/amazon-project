@@ -1,3 +1,4 @@
+import {cart/*as cartNewName*/} from '../data/cart.js'
 
 let productsHtml = `` ; 
 
