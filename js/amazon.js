@@ -83,7 +83,6 @@ buttonElements.forEach((button) => {
       cartQuatity += item.quantity
     })
     document.querySelector('.js-cart-quantity').innerHTML = cartQuatity
-
   })
 })
 
